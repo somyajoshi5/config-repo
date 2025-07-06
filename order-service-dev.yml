@@ -1,7 +1,7 @@
 global:
   message: Welcome to order service dev environment!!
 server:
-  port: 8084
+  port: 8083
 message: Hello from Order Dev!
 spring:
   datasource:
